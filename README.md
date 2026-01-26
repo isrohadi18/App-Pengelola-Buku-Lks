@@ -1,14 +1,15 @@
-# 📚 App Pengelola Buku LKS
+<h1 align="center">App Pengelola Buku LKS</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Desktop%20Application-orange?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-Database-lightblue?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/JasperReports-Reporting-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NetBeans-IDE-darkblue?style=for-the-badge&logo=apache-netbeans-ide" />
-</p>
-
-<p align="center">
+  <img src="assets/icons/java.svg" height="20" />
+  <img src="https://img.shields.io/badge/Java-Swing%20GUI-orange?style=flat-square" />&nbsp;
+  <img src="assets/icons/mysql.svg" height="20" />
+  <img src="https://img.shields.io/badge/MySQL-Database-lightblue?style=flat-square" />&nbsp;
+  <img src="assets/icons/jasper.svg" height="20" />
+  <img src="https://img.shields.io/badge/JasperReports-Reporting-green?style=flat-square" />&nbsp;
+  <img src="assets/icons/netbeans.svg" height="20" />
+  <img src="https://img.shields.io/badge/NetBeans-IDE-darkblue?style=flat-square" />
+  <br>
   <img src="https://img.shields.io/github/repo-size/namauser/App-Pengelola-Buku-Lks" />
   <img src="https://img.shields.io/github/last-commit/namauser/App-Pengelola-Buku-Lks" />
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey" />
@@ -68,24 +69,13 @@ Aplikasi ini cocok digunakan oleh **sekolah, koperasi sekolah, admin gudang buku
 
 ## 🖼️ Dokumentasi Tampilan Aplikasi
 
-Tambahkan screenshot aplikasi untuk memudahkan pengguna memahami alur aplikasi.
+### Login Frame
 
-### 📂 Struktur Folder Screenshot
+![Login Frame](assets/profile/loginframe.svg)
 
-```text
-screenshots/
-├── dashboard.png
-├── form-input-buku.png
-├── data-buku.png
-└── laporan.png
-```
+### Menu Utama Frame
 
-### 🖼️ Contoh Penggunaan di README
-
-```md
-![Dashboard](screenshots/dashboard.png)
-![Form Input Buku](screenshots/form-input-buku.png)
-```
+![Menu Utama Frame](assets/profile/menuframe.svg)
 
 ---
 
