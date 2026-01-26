@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="assets/icons/booklks.svg" height="200" />
+  <img src="assets/icons/book.svg" height="200" />
 </p>
 
 <p align="center">
