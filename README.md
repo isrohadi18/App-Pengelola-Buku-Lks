@@ -8,7 +8,7 @@
   <img src="assets/icons/mysql.svg" height="20" />
   <img src="https://img.shields.io/badge/MySQL-Database-lightblue?style=flat-square" />&nbsp;
   <!-- JESPER -->
-  <img src="assets/icons/jasper.svg" height="20" />
+  <img src="assets/icons/Jasper.svg" height="20" />
   <img src="https://img.shields.io/badge/JasperReports-Reporting-green?style=flat-square" />&nbsp;
     <!-- NETBEANS -->
   <img src="assets/icons/netbeans.svg" height="20" />
