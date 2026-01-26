@@ -1,4 +1,4 @@
-<h1 align="center">App Pengelola Buku LKS</h1>
+<h1 align="center"><b>App Pengelola Buku LKS</b></h1>
 
 <p align="center">
   <img src="assets/icons/java.svg" height="20" />
