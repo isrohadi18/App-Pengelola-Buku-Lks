@@ -1,4 +1,6 @@
-<h1 align="center"><b>App Pengelola Buku LKS</b>
+<h1 align="center">
+<b>App Pengelola Buku LKS</b>
+
 <img src="assets/icons/booklks.svg" height="200" />
 </h1>
 
