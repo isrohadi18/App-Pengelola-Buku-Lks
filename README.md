@@ -1,12 +1,16 @@
 <h1 align="center"><b>App Pengelola Buku LKS</b></h1>
 
 <p align="center">
+<!-- JAVA -->
   <img src="assets/icons/java.svg" height="20" />
   <img src="https://img.shields.io/badge/Java-Swing%20GUI-orange?style=flat-square" />&nbsp;
+  <!-- MYSQL -->
   <img src="assets/icons/mysql.svg" height="20" />
   <img src="https://img.shields.io/badge/MySQL-Database-lightblue?style=flat-square" />&nbsp;
+  <!-- JESPER -->
   <img src="assets/icons/jasper.svg" height="20" />
   <img src="https://img.shields.io/badge/JasperReports-Reporting-green?style=flat-square" />&nbsp;
+    <!-- NETBEANS -->
   <img src="assets/icons/netbeans.svg" height="20" />
   <img src="https://img.shields.io/badge/NetBeans-IDE-darkblue?style=flat-square" />
   <br>
