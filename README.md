@@ -1,8 +1,10 @@
 <h1 align="center">
-<b>App Pengelola Buku LKS</b>
-
-<img src="assets/icons/booklks.svg" height="200" />
+  <b>App Pengelola Buku LKS</b>
 </h1>
+
+<p align="center">
+  <img src="assets/icons/booklks.svg" height="200" />
+</p>
 
 <p align="center">
 <!-- JAVA -->
