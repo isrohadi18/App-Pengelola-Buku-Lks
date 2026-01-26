@@ -1,4 +1,7 @@
 <h1 align="center"><b>App Pengelola Buku LKS</b></h1>
+<p align="center" style="font-size:100px;">
+  📚
+</p><br>
 
 <p align="center">
 <!-- JAVA -->
@@ -14,9 +17,10 @@
   <img src="assets/icons/netbeans.svg" height="20" />
   <img src="https://img.shields.io/badge/NetBeans-IDE-darkblue?style=flat-square" />
   <br>
-  <img src="https://img.shields.io/github/repo-size/namauser/App-Pengelola-Buku-Lks" />
-  <img src="https://img.shields.io/github/last-commit/namauser/App-Pengelola-Buku-Lks" />
-  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey" />
+  <!-- DETAIL APP -->
+  <img src="https://img.shields.io/github/repo-size/isrohadi18/App-Pengelola-Buku-Lks" />&nbsp;
+  <img src="https://img.shields.io/github/last-commit/isrohadi18/App-Pengelola-Buku-Lks" />&nbsp;
+  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-brown" />
 </p>
 
 Aplikasi **App Pengelola Buku LKS** adalah aplikasi **desktop berbasis Java** yang dirancang untuk membantu **pengelolaan data buku LKS (Lembar Kerja Siswa)** secara rapi, cepat, dan terstruktur.
