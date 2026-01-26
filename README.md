@@ -1,7 +1,7 @@
 <h1 align="center"><b>App Pengelola Buku LKS</b></h1>
 <p align="center" style="font-size:100px;">
-  📚
-</p><br>
+  <span style="font-size:150px">📚</span>
+</p>
 
 <p align="center">
 <!-- JAVA -->
