@@ -115,6 +115,6 @@ Jika menggunakan file `.jar`:
 
 > ## **License**
 
-This project is for **_educational and portfolio purposes._**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**_It's free to use and modify for educational purposes._**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+This project is for **_educational and portfolio purposes._**  
+**_It's free to use and modify for educational purposes._**  
 If you find this repository helpful, **_please give it a ⭐ on GitHub_**
